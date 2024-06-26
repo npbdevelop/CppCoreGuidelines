@@ -1,6 +1,6 @@
 # <a name="main"></a>C++ Core Guidelines
 
-May 11, 2024
+May 15, 2024
 
 Editors:
 
